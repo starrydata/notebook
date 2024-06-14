@@ -1,0 +1,25 @@
+﻿fabricationprocess_category,count
+,32250
+PressureSintering,19929
+Sintering,7683
+Melting,3688
+HighPressureSynthesis,3599
+MeltGrowth,2016
+FilmGrowth,1611
+Other,1331
+MeltQuench,958
+FluxGrowth,497
+VaporGrowth,449
+MechanicalAlloying,322
+SoftChemical,297
+Hydrothermal,199
+HotDeformed,172
+Sol-gel,114
+Organic,49
+Cold pressing,46
+Calcination,23
+StripCast,18
+Pressing,16
+Unknown,15
+Thermal decomposition,2
+solution combustion,2
