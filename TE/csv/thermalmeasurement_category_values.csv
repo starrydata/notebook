@@ -1,19 +1,19 @@
 ﻿thermalmeasurement_category,count
-,45428
-LaserFlash,14656
-LaserFlash+DSC,4691
-PPMS-TTO,1792
-Other,1673
-LaserFlash+3R,1290
-PPMS,137
-Disc,132
-3omega,105
-Harman,66
-SteadyStateMethod,45
-Hot Disk,32
-LampFlash,29
-ThermoReflectance,29
-LaserFlash + Neumann-Kopp rule,25
-Specific heat capacity,20
-LampFlash+DSC,11
-LampFlash+3R,7
+,17073
+LaserFlash,3494
+LaserFlash+DSC,1076
+PPMS-TTO,582
+Other,543
+LaserFlash+3R,298
+3omega,48
+PPMS,41
+Disc,37
+Harman,24
+ThermoReflectance,16
+SteadyStateMethod,14
+LampFlash,9
+Hot Disk,6
+LaserFlash + Neumann-Kopp rule,5
+Specific heat capacity,4
+LampFlash+DSC,3
+LampFlash+3R,1
